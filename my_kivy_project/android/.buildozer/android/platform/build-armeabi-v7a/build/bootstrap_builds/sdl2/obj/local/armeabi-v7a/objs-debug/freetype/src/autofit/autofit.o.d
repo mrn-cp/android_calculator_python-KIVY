@@ -1,0 +1,203 @@
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/freetype/./src/autofit/autofit.o: \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/autofit.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/ft2build.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftheader.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/internal.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afangles.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aftypes.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/freetype.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftconfig.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftoption.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftstdlib.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fttypes.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftsystem.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftimage.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fterrors.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftmoderr.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fterrdef.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftoutln.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftobjs.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftrender.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftmodapi.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftglyph.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftsizes.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftlcdfil.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftparams.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftmemory.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftgloadr.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftdrv.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/autohint.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftserv.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftpic.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftcalc.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftincrem.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftdebug.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afblue.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwrtsys.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afscript.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcover.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afstyles.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afblue.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcjk.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftadvanc.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afglobal.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afmodule.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afshaper.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afpic.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afhints.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcjk.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aferrors.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwarp.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afdummy.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afdummy.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afglobal.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afranges.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afindic.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afhints.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afindic.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin2.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afloader.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afloader.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afmodule.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftdriver.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/services/svprop.h \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afpic.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afranges.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afshaper.c \
+  /home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwarp.c
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/ft2build.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftheader.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/internal.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afangles.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aftypes.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/freetype.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftconfig.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftoption.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/config/ftstdlib.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fttypes.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftsystem.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftimage.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fterrors.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftmoderr.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/fterrdef.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftoutln.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftobjs.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftrender.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftmodapi.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftglyph.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftsizes.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftlcdfil.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftparams.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftmemory.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftgloadr.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftdrv.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/autohint.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftserv.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftpic.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftcalc.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftincrem.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/ftdebug.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afblue.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwrtsys.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afscript.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcover.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afstyles.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afblue.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcjk.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftadvanc.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afglobal.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afmodule.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afshaper.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afpic.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afhints.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afcjk.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aferrors.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwarp.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afdummy.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afdummy.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afglobal.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afranges.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afindic.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afhints.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afindic.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/aflatin2.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afloader.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afloader.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afmodule.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/ftdriver.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/include/freetype/internal/services/svprop.h:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afpic.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afranges.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afshaper.c:
+
+/home/t2/PycharmProjects/calculator/my_kivy_project/android/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype-2.9.1/./src/autofit/afwarp.c:
